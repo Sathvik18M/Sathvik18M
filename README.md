@@ -21,7 +21,7 @@
   <img src="./assets/f1-car.gif" width="60" height="30" alt="Animated Formula 1 racing car" />
 </em></p>
 
-### A little more about me... <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/1.gif" width="50" alt="Animated pixel ghost" />
+### A little more about me... <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/1.gif" width="50" align="center" alt="Animated pixel ghost" />
 
 ```javascript
 const sathvik = {
