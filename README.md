@@ -15,7 +15,7 @@
 
 <br />
 
-<img align="right" src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="280" alt="Animated pixel developer working at a laptop" />
+<img align="right" src="./assets/boy-developer.gif" width="280" alt="Animated pixel boy developer typing at a laptop" />
 
 ### A little more about me... <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/1.gif" width="50" alt="Animated pixel ghost" />
 
@@ -73,4 +73,4 @@ const sathvik = {
 
 </details>
 
-<sub>Layout inspiration and pixel GIFs: <a href="https://github.com/ddroid/ddroid">ddroid</a>.</sub>
+<sub>Layout inspiration and small pixel GIFs: <a href="https://github.com/ddroid/ddroid">ddroid</a>.</sub>
