@@ -1,15 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:0284C7,100:059669&amp;height=220&amp;section=header&amp;text=LegendSat18&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;desc=Game%20%7C%20App%20%7C%20Web%20Developer&amp;descSize=20&amp;descAlignY=72" alt="Animated LegendSat18 banner — Game, App and Web Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:0284C7,100:059669&amp;height=220&amp;section=header&amp;text=LegendSat18&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;desc=App%20Developer%20%7C%20Web%20Developer&amp;descSize=20&amp;descAlignY=72" alt="Animated LegendSat18 banner — App and Web Developer" />
 
 # Hey, I'm LegendSat18 👋
 
-### Game Developer · App Developer · Web Developer
+### App Developer · Web Developer
 
-Building games to play, apps to use, and websites to explore.
+Building useful apps and responsive websites.
 
 <p>
-  <img src="https://img.shields.io/badge/GAME_DEVELOPMENT-7C3AED?style=for-the-badge" alt="Game development" />
   <img src="https://img.shields.io/badge/APP_DEVELOPMENT-0284C7?style=for-the-badge" alt="App development" />
   <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-059669?style=for-the-badge" alt="Web development" />
 </p>
@@ -22,15 +21,15 @@ Building games to play, apps to use, and websites to explore.
 
 ## 👨‍💻 About me
 
-I'm **LegendSat18**, known on GitHub as **@Sathvik18M**. My development interests span interactive games, useful applications, and responsive websites.
+I'm **LegendSat18**, known on GitHub as **@Sathvik18M**. My development interests focus on useful applications and responsive websites.
 
-I enjoy bringing ideas to life through code—from the logic behind a Minesweeper board to the interface of a support dashboard. My projects bring together problem solving, interface design, and practical software development.
+I enjoy bringing ideas to life through code—from intuitive app interfaces to connected web dashboards. My projects bring together problem solving, interface design, and practical software development.
 
 ## 🎯 My focus
 
-| 🎮 Games | 📱 Applications | 🌐 Websites |
-| --- | --- | --- |
-| Gameplay mechanics, game logic, and interactive experiences. | Useful features, clear workflows, and connected services. | Responsive layouts, reusable components, and intuitive interfaces. |
+| 📱 Applications | 🌐 Websites |
+| --- | --- |
+| Useful features, clear workflows, and connected services. | Responsive layouts, reusable components, and intuitive interfaces. |
 
 ## 🚀 Featured projects
 
