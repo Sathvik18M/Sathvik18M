@@ -40,12 +40,13 @@ A seller support portal with a WhatsApp customer interface. The project brings t
 **Built with:** Next.js · TypeScript · Tailwind CSS · Python · FastAPI · PostgreSQL · Supabase  
 **Explore:** [View the project](https://github.com/Sathvik18M/RESCUELOOP-AI)
 
-### 🌐 [Portfolio Workshop](https://github.com/Sathvik18M/My_test_profile)
+### 🏎️ [F1 Race Winner Prediction System](https://github.com/Sathvik18M/F1_prediction-python)
 
-A portfolio learning project based on the GDG workshop starter, using React and Vite to explore component-based web development.
+A Formula 1 dashboard for race predictions, historical results, telemetry, and driver comparisons. It combines racing data with rule-based scoring to rank drivers for upcoming races.
 
-**Built with:** React · JavaScript · Vite · CSS  
-**Explore:** [View the project](https://github.com/Sathvik18M/My_test_profile)
+**Role:** Contributor  
+**Built with:** Python · FastAPI · React · Vite · FastF1 · pandas  
+**Explore:** [View the project](https://github.com/Sathvik18M/F1_prediction-python)
 
 ## 🛠️ Technologies in my projects
 
