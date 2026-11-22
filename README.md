@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:0284C7,100:059669&amp;height=220&amp;section=header&amp;text=LegendSat18&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;desc=Game%20%7C%20App%20%7C%20Web%20Developer&amp;descSize=20&amp;descAlignY=72" alt="Animated LegendSat18 banner — Game, App and Web Developer" />
+
 # Hey, I'm LegendSat18 👋
 
 ### Game Developer · App Developer · Web Developer
@@ -71,6 +73,19 @@ A portfolio learning project based on the GDG workshop starter, using React and 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
 </p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <a href="https://github.com/Sathvik18M">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Sathvik18M&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;icon_color=38BDF8&amp;border_radius=12&amp;card_width=420" alt="Sathvik18M's GitHub statistics: stars, commits, pull requests, issues and contributions" />
+  </a>
+  <a href="https://github.com/Sathvik18M?tab=repositories">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Sathvik18M&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;border_radius=12&amp;card_width=350" alt="Most used languages across Sathvik18M's public repositories" />
+  </a>
+</p>
+
+<p align="center"><sub>Public GitHub activity. Language percentages describe repository code, not skill levels.</sub></p>
 
 ---
 
