@@ -13,7 +13,7 @@ Building useful apps and responsive websites.
   <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-059669?style=for-the-badge" alt="Web development" />
 </p>
 
-[Explore my projects](https://github.com/Sathvik18M?tab=repositories) · [Play Fieldwork](https://Sathvik18M.github.io/DSA_MINIPROJECT/) · [GitHub profile](https://github.com/Sathvik18M)
+[Explore my projects](https://github.com/Sathvik18M?tab=repositories) · [GitHub profile](https://github.com/Sathvik18M)
 
 </div>
 
@@ -32,13 +32,6 @@ I enjoy bringing ideas to life through code—from intuitive app interfaces to c
 | Useful features, clear workflows, and connected services. | Responsive layouts, reusable components, and intuitive interfaces. |
 
 ## 🚀 Featured projects
-
-### 🎮 [Fieldwork · Minesweeper](https://github.com/Sathvik18M/DSA_MINIPROJECT)
-
-A responsive browser game with three difficulty levels, keyboard and touch controls, safe first moves, and saved personal bests. Its game logic uses a two-dimensional array and breadth-first flood fill.
-
-**Built with:** JavaScript · HTML · CSS  
-**Explore:** [Play the game](https://Sathvik18M.github.io/DSA_MINIPROJECT/) · [View source](https://github.com/Sathvik18M/DSA_MINIPROJECT)
 
 ### 💬 [RescueLoop AI](https://github.com/Sathvik18M/RESCUELOOP-AI)
 
