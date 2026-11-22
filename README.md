@@ -1,4 +1,10 @@
-<h2>Hi there, I'm Sathvik M <img src="./assets/minecraft-steve.gif" width="38" height="50" alt="Minecraft Steve waving" /></h2>
+<h2>Hi there, I'm <img src="./assets/minecraft-steve.gif" width="38" height="50" alt="Minecraft Steve waving" /></h2>
+
+<pre><b>  ____    _  _____ _   ___     ___ _  __   __  __
+ / ___|  / \|_   _| | | \ \   / / | |/ /  |  \/  |
+ \___ \ / _ \ | | | |_| |\ \ / /| | ' /   | |\/| |
+  ___) / ___ \| | |  _  | \ V / | | . \   | |  | |
+ |____/_/   \_\_| |_| |_|  \_/  |_|_|\_\  |_|  |_|</b></pre>
 
 <p><em>
   App &amp; Web Developer
