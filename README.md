@@ -6,6 +6,8 @@
   ___) / ___ \| | |  _  | \ V / | | . \   | |  | |
  |____/_/   \_\_| |_| |_|  \_/  |_|_|\_\  |_|  |_|</b></pre>
 
+<img align="right" src="./assets/boy-developer.gif" width="280" alt="Animated pixel boy developer typing at a laptop" />
+
 <p><em>
   App &amp; Web Developer
   <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/9.gif" width="30" alt="Pixel turtle" />
@@ -20,8 +22,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Sathvik18M?label=Followers&style=social)](https://github.com/Sathvik18M?tab=followers)
 
 <br />
-
-<img align="right" src="./assets/boy-developer.gif" width="280" alt="Animated pixel boy developer typing at a laptop" />
 
 ### A little more about me... <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/1.gif" width="50" alt="Animated pixel ghost" />
 
@@ -63,20 +63,5 @@ const sathvik = {
 </p>
 
 <sub>Public GitHub activity. Language percentages describe repository code, not skill levels.</sub>
-
-<details>
-<summary>ASCII Art</summary>
-
-```text
-  ____    _  _____ _   ___     ___ _  __   __  __
- / ___|  / \|_   _| | | \ \   / / | |/ /  |  \/  |
- \___ \ / _ \ | | | |_| |\ \ / /| | ' /   | |\/| |
-  ___) / ___ \| | |  _  | \ V / | | . \   | |  | |
- |____/_/   \_\_| |_| |_|  \_/  |_|_|\_\  |_|  |_|
-
-              App & Web Developer
-```
-
-</details>
 
 <sub>Layout inspiration and small pixel GIFs: <a href="https://github.com/ddroid/ddroid">ddroid</a>.</sub>
