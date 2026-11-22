@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Sathvik M <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/7.gif" width="50" alt="Animated pixel character" /></h2>
+<h2>Hi there, I'm Sathvik M <img src="./assets/minecraft-steve.gif" width="38" height="50" alt="Minecraft Steve waving" /></h2>
 
 <p><em>
   App &amp; Web Developer
@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/8.gif" width="30" alt="Pixel cat" />
   <br />
   Contributor to <a href="https://github.com/Sathvik18M/F1_prediction-python">F1 Race Winner Prediction System</a>
-  <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/11.gif" width="30" alt="Pixel racing car" />
+  <img src="./assets/f1-car.gif" width="60" height="30" alt="Animated Formula 1 racing car" />
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Sathvik18M?label=Followers&style=social)](https://github.com/Sathvik18M?tab=followers)
