@@ -1,91 +1,76 @@
-<div align="center">
+<h2>Hi there, I'm Sathvik M <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/7.gif" width="50" alt="Animated pixel character" /></h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:0284C7,100:059669&amp;height=220&amp;section=header&amp;text=LegendSat18&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;desc=App%20Developer%20%7C%20Web%20Developer&amp;descSize=20&amp;descAlignY=72" alt="Animated LegendSat18 banner — App and Web Developer" />
+<p><em>
+  App &amp; Web Developer
+  <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/9.gif" width="30" alt="Pixel turtle" />
+  <br />
+  Exploring AI-powered support with <a href="https://github.com/Sathvik18M/RESCUELOOP-AI">RescueLoop AI</a>
+  <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/8.gif" width="30" alt="Pixel cat" />
+  <br />
+  Contributor to <a href="https://github.com/Sathvik18M/F1_prediction-python">F1 Race Winner Prediction System</a>
+  <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/11.gif" width="30" alt="Pixel racing car" />
+</em></p>
 
-# Hey, I'm LegendSat18 👋
+[![GitHub followers](https://img.shields.io/github/followers/Sathvik18M?label=Followers&style=social)](https://github.com/Sathvik18M?tab=followers)
 
-### App Developer · Web Developer
+<br />
 
-Building useful apps and responsive websites.
+<img align="right" src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="280" alt="Animated pixel developer working at a laptop" />
 
-<p>
-  <img src="https://img.shields.io/badge/APP_DEVELOPMENT-0284C7?style=for-the-badge" alt="App development" />
-  <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-059669?style=for-the-badge" alt="Web development" />
-</p>
+### A little more about me... <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/1.gif" width="50" alt="Animated pixel ghost" />
 
-[Explore my projects](https://github.com/Sathvik18M?tab=repositories) · [GitHub profile](https://github.com/Sathvik18M)
+```javascript
+const sathvik = {
+  name: "Sathvik M",
+  role: "App & Web Developer",
+  code: ["JavaScript", "TypeScript", "Python"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["FastAPI", "PostgreSQL", "Supabase"],
+  focus: ["Useful apps", "Responsive websites"],
+  projects: ["RescueLoop AI", "F1 predictions"]
+};
+```
 
-</div>
+<br clear="both" />
 
----
+<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="60" alt="Animated pixel community" /> <em><b>Always happy to meet fellow builders.</b> Explore my projects, share an idea, or say hello on GitHub!</em>
 
-## 👨‍💻 About me
+[GitHub](https://github.com/Sathvik18M) · [Repositories](https://github.com/Sathvik18M?tab=repositories) · [RescueLoop AI](https://github.com/Sathvik18M/RESCUELOOP-AI) · [F1 Predictions](https://github.com/Sathvik18M/F1_prediction-python)
 
-I'm **LegendSat18**, known on GitHub as **@Sathvik18M**. My development interests focus on useful applications and responsive websites.
+### A few things I've worked on
 
-I enjoy bringing ideas to life through code—from intuitive app interfaces to connected web dashboards. My projects bring together problem solving, interface design, and practical software development.
+**[RescueLoop AI](https://github.com/Sathvik18M/RESCUELOOP-AI)** — A seller support portal with a WhatsApp customer interface, AI-assisted workflows, and seller review.  
+<sub>Next.js · TypeScript · Tailwind CSS · Python · FastAPI · PostgreSQL · Supabase</sub>
 
-## 🎯 My focus
+**[F1 Race Winner Prediction System](https://github.com/Sathvik18M/F1_prediction-python)** — A Formula 1 dashboard for predictions, race history, telemetry, and driver comparisons using rule-based scoring. **Role: Contributor.**  
+<sub>Python · FastAPI · React · Vite · FastF1 · pandas</sub>
 
-| 📱 Applications | 🌐 Websites |
-| --- | --- |
-| Useful features, clear workflows, and connected services. | Responsive layouts, reusable components, and intuitive interfaces. |
-
-## 🚀 Featured projects
-
-### 💬 [RescueLoop AI](https://github.com/Sathvik18M/RESCUELOOP-AI)
-
-A seller support portal with a WhatsApp customer interface. The project brings together support conversations, requests, policies, and insights in a web dashboard, with AI-assisted workflows and seller review.
-
-**Built with:** Next.js · TypeScript · Tailwind CSS · Python · FastAPI · PostgreSQL · Supabase  
-**Explore:** [View the project](https://github.com/Sathvik18M/RESCUELOOP-AI)
-
-### 🏎️ [F1 Race Winner Prediction System](https://github.com/Sathvik18M/F1_prediction-python)
-
-A Formula 1 dashboard for race predictions, historical results, telemetry, and driver comparisons. It combines racing data with rule-based scoring to rank drivers for upcoming races.
-
-**Role:** Contributor  
-**Built with:** Python · FastAPI · React · Vite · FastF1 · pandas  
-**Explore:** [View the project](https://github.com/Sathvik18M/F1_prediction-python)
-
-## 🛠️ Technologies in my projects
+### GitHub stats
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
-</p>
-
-## 📊 GitHub stats
-
-<p align="center">
   <a href="https://github.com/Sathvik18M">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Sathvik18M&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;icon_color=38BDF8&amp;border_radius=12&amp;card_width=420" alt="Sathvik18M's GitHub statistics: stars, commits, pull requests, issues and contributions" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Sathvik18M&amp;custom_title=Sathvik%20M%27s%20GitHub%20Stats&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=79C0FF&amp;border_radius=8&amp;card_width=420" alt="Sathvik M's GitHub statistics" />
   </a>
   <a href="https://github.com/Sathvik18M?tab=repositories">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Sathvik18M&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;border_radius=12&amp;card_width=350" alt="Most used languages across Sathvik18M's public repositories" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Sathvik18M&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_radius=8&amp;card_width=350" alt="Most used languages across Sathvik M's public repositories" />
   </a>
 </p>
 
-<p align="center"><sub>Public GitHub activity. Language percentages describe repository code, not skill levels.</sub></p>
+<sub>Public GitHub activity. Language percentages describe repository code, not skill levels.</sub>
 
----
+<details>
+<summary>ASCII Art</summary>
 
-<div align="center">
+```text
+  ____    _  _____ _   ___     ___ _  __   __  __
+ / ___|  / \|_   _| | | \ \   / / | |/ /  |  \/  |
+ \___ \ / _ \ | | | |_| |\ \ / /| | ' /   | |\/| |
+  ___) / ___ \| | |  _  | \ V / | | . \   | |  | |
+ |____/_/   \_\_| |_| |_|  \_/  |_|_|\_\  |_|  |_|
 
-**Thanks for stopping by. Take a look around, try a project, or explore the code.**
+              App & Web Developer
+```
 
-[![GitHub — Sathvik18M](https://img.shields.io/badge/GitHub-Sathvik18M-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sathvik18M)
+</details>
 
-</div>
+<sub>Layout inspiration and pixel GIFs: <a href="https://github.com/ddroid/ddroid">ddroid</a>.</sub>
