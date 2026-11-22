@@ -12,6 +12,8 @@
   App &amp; Web Developer
   <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/9.gif" width="30" alt="Pixel turtle" />
   <br />
+  GDG Organizer Lead
+  <br />
   Exploring AI-powered support with <a href="https://github.com/Sathvik18M/RESCUELOOP-AI">RescueLoop AI</a>
   <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/8.gif" width="30" alt="Pixel cat" />
   <br />
