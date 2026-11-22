@@ -43,7 +43,7 @@ const sathvik = {
 
 <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="60" alt="Animated pixel community" /> <em><b>Always happy to meet fellow builders.</b> Explore my projects, share an idea, or say hello on GitHub!</em>
 
-[GitHub](https://github.com/Sathvik18M) · [Repositories](https://github.com/Sathvik18M?tab=repositories) · [RescueLoop AI](https://github.com/Sathvik18M/RESCUELOOP-AI) · [F1 Predictions](https://github.com/Sathvik18M/F1_prediction-python)
+[GitHub](https://github.com/Sathvik18M) · [LinkedIn](https://www.linkedin.com/in/sathvik-m18/) · [Gmail](mailto:sathvikm18@gmail.com) · [Repositories](https://github.com/Sathvik18M?tab=repositories) · [RescueLoop AI](https://github.com/Sathvik18M/RESCUELOOP-AI) · [F1 Predictions](https://github.com/Sathvik18M/F1_prediction-python)
 
 ### A few things I've worked on
 
