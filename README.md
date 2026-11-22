@@ -23,8 +23,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Sathvik18M?label=Followers&style=social)](https://github.com/Sathvik18M?tab=followers)
 
-<br />
-
 ### A little more about me... <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/1.gif" width="50" alt="Animated pixel ghost" />
 
 ```javascript
